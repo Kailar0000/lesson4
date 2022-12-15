@@ -1,0 +1,15 @@
+F:\Учеба\lesson4\task4b\bin\Debug\net6.0\task4b.exe
+F:\Учеба\lesson4\task4b\bin\Debug\net6.0\task4b.deps.json
+F:\Учеба\lesson4\task4b\bin\Debug\net6.0\task4b.runtimeconfig.json
+F:\Учеба\lesson4\task4b\bin\Debug\net6.0\task4b.dll
+F:\Учеба\lesson4\task4b\bin\Debug\net6.0\task4b.pdb
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.csproj.AssemblyReference.cache
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.AssemblyInfoInputs.cache
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.AssemblyInfo.cs
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.csproj.CoreCompileInputs.cache
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.dll
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\refint\task4b.dll
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.pdb
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\task4b.genruntimeconfig.cache
+F:\Учеба\lesson4\task4b\obj\Debug\net6.0\ref\task4b.dll
