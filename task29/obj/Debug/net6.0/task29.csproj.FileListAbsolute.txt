@@ -1,0 +1,15 @@
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+F:\Учеба\lesson4\task29\bin\Debug\net6.0\task29.exe
+F:\Учеба\lesson4\task29\bin\Debug\net6.0\task29.deps.json
+F:\Учеба\lesson4\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+F:\Учеба\lesson4\task29\bin\Debug\net6.0\task29.dll
+F:\Учеба\lesson4\task29\bin\Debug\net6.0\task29.pdb
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.dll
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\refint\task29.dll
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.pdb
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
+F:\Учеба\lesson4\task29\obj\Debug\net6.0\ref\task29.dll
